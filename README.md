@@ -13,15 +13,15 @@
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 👨‍💻 All of my projects are available at [Not yet](Not yet)
+- 👨‍💻 All of my projects are available at [Not yet]
 
-- 📝 I regularly write articles on [Not yet](Not yet)
+- 📝 I regularly write articles on [Not yet]
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **chouikhdaly215@gmail.com**
 
-- 📄 Know about my experiences [Not yet](Not yet)
+- 📄 Know about my experiences [Not yet]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,7 @@
 <a href="https://stackoverflow.com/users/20411277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20411277" height="30" width="40" /></a>
 <a href="https://fb.com/chouikh.daly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chouikh.daly" height="30" width="40" /></a>
 <a href="https://instagram.com/dali.chouikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dali.chouikh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohamed ali chouikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohamed ali chouikh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chouikhdaly215?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohamed ali chouikh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dalychouikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dalychouikh" height="30" width="40" /></a>
 </p>
 
