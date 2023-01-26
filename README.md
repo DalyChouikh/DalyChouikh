@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalychouikh" alt="dalychouikh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chouikhdaly" target="blank"><img src="https://img.shields.io/twitter/follow/chouikhdaly?logo=twitter&style=for-the-badge" alt="chouikhdaly" /></a> </p>
-
 - 🌱 I’m currently learning **JAVA, Spring and JDA**
 
 - 👯 I’m looking to collaborate on **any projects**
