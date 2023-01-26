@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali CHOUIKH</h1>
 <h3 align="center">A passionate backend developer, Computer Science Student</h3>
-<p align="cetner">
-<img align="center" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  width="540" height="540"/>
+<p align="center">
+<img align="center" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalychouikh&label=Profile%20views&color=0e75b6&style=flat" alt="dalychouikh" /> </p>
 
