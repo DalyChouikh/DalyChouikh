@@ -7,21 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/chouikhdaly" target="blank"><img src="https://img.shields.io/twitter/follow/chouikhdaly?logo=twitter&style=for-the-badge" alt="chouikhdaly" /></a> </p>
 
-- 🔭 I’m currently working on **an admin dashboard**
-
-- 🌱 I’m currently learning **Spring Framework, and Spring Boot**
+- 🌱 I’m currently learning **JAVA, Spring and JDA**
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 👨‍💻 All of my projects are available at [Not yet]
-
-- 📝 I regularly write articles on [Not yet]
-
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **chouikhdaly215@gmail.com**
 
-- 📄 Know about my experiences [Not yet]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
