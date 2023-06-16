@@ -8,7 +8,6 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalychouikh&label=Profile%20views&color=0e75b6&style=flat" alt="dalychouikh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalychouikh" alt="dalychouikh" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA, Spring and JDA**
 
@@ -22,11 +21,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-ali-chouikh-362b0a216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ali-chouikh-362b0a216" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20411277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20411277" height="30" width="40" /></a>
 <a href="https://fb.com/chouikh.daly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chouikh.daly" height="30" width="40" /></a>
 <a href="https://instagram.com/dali.chouikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dali.chouikh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chouikhdaly215?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohamed ali chouikh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dalychouikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dalychouikh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,6 +30,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalychouikh&show_icons=true&locale=en&layout=compact" alt="dalychouikh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalychouikh&show_icons=true&locale=en" alt="dalychouikh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalychouikh&" alt="dalychouikh" /></p>
