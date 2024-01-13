@@ -8,7 +8,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **JAVA, Spring and JDA**
+- 🌱 I’m currently learning **TypeScript, NestJS, React**
 
 - 👯 I’m looking to collaborate on **any projects**
 
