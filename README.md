@@ -4,7 +4,9 @@
 <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=3000&color=15D4F7&width=435&lines=Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 
-<a href="https://app.daily.dev/dalychouikh"><img src="https://api.daily.dev/devcards/v2/3pyXfmhNxqTLplzZYUtMU.png?type=wide&r=a8y" width="652" alt="Daly Chouikh's Dev Card"/></a>
+<p align="center">
+  <a href="https://app.daily.dev/dalychouikh"><img src="https://api.daily.dev/devcards/v2/3pyXfmhNxqTLplzZYUtMU.png?type=wide&r=a8y" width="652" alt="Daly Chouikh's Dev Card"/></a>
+</p>
 
 
 - 🌱 I’m currently learning **Go**
