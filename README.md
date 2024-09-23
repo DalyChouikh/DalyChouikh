@@ -7,6 +7,8 @@
 <img align="center" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </p>
 
+<a href="https://app.daily.dev/dalychouikh"><img src="https://api.daily.dev/devcards/v2/3pyXfmhNxqTLplzZYUtMU.png?type=wide&r=a8y" width="652" alt="Daly Chouikh's Dev Card"/></a>
+
 
 - 🌱 I’m currently learning **Go**
 
