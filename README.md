@@ -3,9 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=15D4F7&width=435&lines=A+passionate+backend+developer" alt="Typing SVG" /></a>
 <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=3000&color=15D4F7&width=435&lines=Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
-<p align="center">
-<img align="center" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-</p>
 
 <a href="https://app.daily.dev/dalychouikh"><img src="https://api.daily.dev/devcards/v2/3pyXfmhNxqTLplzZYUtMU.png?type=wide&r=a8y" width="652" alt="Daly Chouikh's Dev Card"/></a>
 
