@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.daily.dev/dalychouikh"><img src="https://api.daily.dev/devcards/v2/3pyXfmhNxqTLplzZYUtMU.png?type=wide&r=a8y" width="652" alt="Daly Chouikh's Dev Card"/></a>
+  <a href="https://app.daily.dev/dalychouikh"><img src="./devcard.png" width="652" alt="Daly Chouikh's Dev Card"/></a>
 </p>
 
 
