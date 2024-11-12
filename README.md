@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali CHOUIKH</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=15D4F7&width=435&lines=A+passionate+backend+developer" alt="Typing SVG" /></a>
-<br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=3000&color=15D4F7&width=435&lines=Computer+Science+Student" alt="Typing SVG" /></a>
+<br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=3000&color=15D4F7&width=435&lines=Software+Engineer+Student" alt="Typing SVG" /></a>
 </p>
 
 - 🌱 I’m currently learning **Go**
